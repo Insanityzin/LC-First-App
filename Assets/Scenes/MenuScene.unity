@@ -367,6 +367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 378001770}
   - component: {fileID: 378001769}
+  - component: {fileID: 378001771}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -401,6 +402,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &378001771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378001768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 961dd9b840604e04783586afe94e5ebf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Ls: {fileID: 378001769}
+  second: 2
+  SceneName: Menu Scene
 --- !u!1 &437640197
 GameObject:
   m_ObjectHideFlags: 0
