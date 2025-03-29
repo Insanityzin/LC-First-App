@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: cd871535dbc065141800b23624da28df
+  productGUID: b3dc3709c0e61eb43bfdabf0eb822402
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FirstApp
+  productName: Project 2 Pong2D
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FirstApp
+  metroPackageName: Project 2 Pong2D
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FirstApp
+  metroApplicationDescription: Project 2 Pong2D
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: f1a15c69-6db3-44e8-b00e-fec563377afd
+  cloudProjectId: 3e4aa2b4-7d2c-40ca-97a1-98e76838af7f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FirstApp 2025-02-13_11-02-06
+  projectName: Project 2 Pong2D
   organizationId: sanznity
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
